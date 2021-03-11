@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\josep\OneDrive - Institute of Technology Carlow\Programming\Random Code With Pete\Retention SFML with pete\SCREEN SWAPPER\Debug\SCREEN SWAPPER.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\josep\OneDrive - Institute of Technology Carlow\Programming\Random Code With Pete\Retention SFML with pete\SCREEN SWAPPER\SCREEN SWAPPER\ASSETS\FONTS\ariblk.ttf</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\josep\OneDrive - Institute of Technology Carlow\Programming\Random Code With Pete\Retention SFML with pete\SCREEN SWAPPER\SCREEN SWAPPER\ASSETS\IMAGES\SFML-LOGO.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
